@@ -59,7 +59,7 @@ export default function Hero() {
 
   return (
     <section id="home" className="relative overflow-hidden bg-gradient-to-br from-blue-600 to-cyan-400 py-20 min-h-[400px] flex items-center">
-      <div className="absolute right-0 top-1/2 transform -translate-y-1/2 -translate-x-8 text-9xl opacity-5 -rotate-12">⛷️</div>
+      <div className="absolute right-0 top-1/2 transform -translate-y-1/2 -translate-x-8 text-9xl opacity-15 -rotate-12">⛷️</div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center">
           <h2 className="text-4xl lg:text-5xl font-bold text-white mb-4">Learn to Ski with the Best at <span className="resort-name-box">{coloradoResorts[currentResort].slice(0, displayedText)}</span></h2>
