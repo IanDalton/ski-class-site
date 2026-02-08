@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "brand": "⛷️ Keystone Ski Classes",
+    "home": "Home",
+    "whyUs": "Why Us",
+    "classes": "Classes",
+    "schedule": "Schedule",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Learn to Ski with the Best at Keystone",
+    "subtitle": "Professional ski instruction for first-timers and beginners of all ages",
+    "cta": "Book Your Lesson"
+  },
+  "whyUs": {
+    "title": "Why Hire Us?",
+    "pricing": {
+      "title": "Affordable Pricing",
+      "description": "Get the same quality instruction at a fraction of the cost! We're significantly cheaper than official resort lessons while delivering exceptional value.",
+      "highlight": "Save up to 40% compared to resort rates"
+    },
+    "experience": {
+      "title": "Experienced Teachers",
+      "description": "Our instructors have decades of combined teaching experience across all age groups and skill levels. Certified professionals who love what they do.",
+      "highlight": "15+ years average experience"
+    }
+  },
+  "classes": {
+    "title": "Our Classes",
+    "firstTimers": {
+      "title": "🎿 First-Timers (Ages 3-5)",
+      "description": "Gentle introduction to skiing for our youngest learners. Patient, fun-focused instruction in a safe environment."
+    },
+    "kidsBeginner": {
+      "title": "⛷️ Kids Beginners (Ages 6-12)",
+      "description": "Build confidence and fundamental skills. Perfect for kids with little to no skiing experience."
+    },
+    "teens": {
+      "title": "🏔️ Teens (Ages 13-17)",
+      "description": "Master the basics and progress quickly with age-appropriate instruction and group dynamics."
+    },
+    "adults": {
+      "title": "🎿 Adults (18+)",
+      "description": "Never too late to learn! Personalized instruction for adult beginners and those returning to skiing."
+    }
+  },
+  "schedule": {
+    "title": "Class Schedules",
+    "firstTimers": {
+      "title": "🎿 First-Timers (Ages 3 to 5)",
+      "vibe": "The Vibe:",
+      "vibeDesc": "Low pressure, high fun.",
+      "tip": "Pro Tip:",
+      "tipText": "We strongly recommend the Half-Day for this age group. Three hours is usually the 'sweet spot' before the nap-attack hits!",
+      "morning": "Morning Session",
+      "morningDesc": "Catch that early energy while it lasts.",
+      "afternoon": "Afternoon Session",
+      "afternoonDesc": "For the families who like a slow morning.",
+      "fullDay": "Full Day",
+      "fullDayDesc": "Includes a lunch break and 'warm-up' time."
+    },
+    "kidsBeginner": {
+      "title": "⛷️ Kids Beginners (Ages 6 to 12)",
+      "vibe": "The Vibe:",
+      "vibeDesc": "Pizza, pickles, and finding the secret trails.",
+      "halfDay": "Half-Day Blast (3 Hours)",
+      "halfDayDesc": "A high-speed introduction to stopping and turning.",
+      "fullDay": "Full-Day Explorer (6 Hours)",
+      "fullDayDesc": "Plenty of time for snack breaks, mastering the magic carpet, and seeing more of the mountain."
+    },
+    "teens": {
+      "title": "🏔️ Teen First-Timers (Ages 13 to 17)",
+      "vibe": "The Vibe:",
+      "vibeDesc": "No 'little kid' stuff. Just the skills you need to look like a pro.",
+      "fullDay": "Zero-to-Hero Full Day",
+      "fullDayDesc": "A slightly later start for the late sleepers. We go from 'How do I put these boots on?' to 'I'm actually doing this' in one day.",
+      "quickStart": "The Quick Start (3 Hours)",
+      "quickStartDesc": "A private crash course in mountain survival. Perfect for getting the basics down so you can practice on your own later."
+    },
+    "adults": {
+      "title": "🎿 Adult Beginners (18+)",
+      "vibe": "The Vibe:",
+      "vibeDesc": "Efficiency and confidence. Skip the lines, learn the ropes.",
+      "intensive": "The Intensive",
+      "intensiveDesc": "High-energy technical focus. Done by lunch.",
+      "deepDive": "The Deep Dive",
+      "deepDiveDesc": "No rush. We take the time to make sure you're comfortable."
+    },
+    "table": {
+      "option": "Option",
+      "time": "Time",
+      "happening": "What's Happening",
+      "why": "Why you'll like it"
+    },
+    "whyPrivate": {
+      "title": "Why Private Lessons?",
+      "description": "Because it is all about you. No waiting for a group and no 'holding anyone up.' If you're a natural, we move fast. If you need an extra hour to master the 'stop,' we've got you."
+    }
+  },
+  "contact": {
+    "title": "Get Started Today",
+    "subtitle": "Ready to hit the slopes? Contact us to book your lesson!",
+    "cta": "📱 Contact via WhatsApp"
+  },
+  "footer": {
+    "copyright": "© 2026 Keystone Ski Classes. All rights reserved."
+  }
+}

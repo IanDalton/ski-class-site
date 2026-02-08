@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "brand": "⛷️ Clases de Esquí Keystone",
+    "home": "Inicio",
+    "whyUs": "Por Qué Nosotros",
+    "classes": "Clases",
+    "schedule": "Horarios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Aprende a Esquiar con los Mejores en Keystone",
+    "subtitle": "Instrucción profesional de esquí para principiantes y principiantes de todas las edades",
+    "cta": "Reserva tu Lección"
+  },
+  "whyUs": {
+    "title": "¿Por Qué Contratarnos?",
+    "pricing": {
+      "title": "Precios Asequibles",
+      "description": "¡Obtén la misma instrucción de calidad a una fracción del costo! Somos significativamente más baratos que las lecciones oficiales del resort mientras brindamos un valor excepcional.",
+      "highlight": "Ahorra hasta 40% en comparación con las tarifas del resort"
+    },
+    "experience": {
+      "title": "Maestros Experimentados",
+      "description": "Nuestros instructores tienen décadas de experiencia de enseñanza combinada en todos los grupos de edad y niveles de habilidad. Profesionales certificados que aman lo que hacen.",
+      "highlight": "15+ años de experiencia promedio"
+    }
+  },
+  "classes": {
+    "title": "Nuestras Clases",
+    "firstTimers": {
+      "title": "🎿 Principiantes (Edades 3-5)",
+      "description": "Introducción suave al esquí para nuestros alumnos más pequeños. Instrucción paciente y enfocada en la diversión en un ambiente seguro."
+    },
+    "kidsBeginner": {
+      "title": "⛷️ Niños Principiantes (Edades 6-12)",
+      "description": "Construye confianza y habilidades fundamentales. Perfecto para niños con poca o ninguna experiencia en esquí."
+    },
+    "teens": {
+      "title": "🏔️ Adolescentes (Edades 13-17)",
+      "description": "Domina los conceptos básicos y progresa rápidamente con instrucción apropiada para la edad y dinámica de grupo."
+    },
+    "adults": {
+      "title": "🎿 Adultos (18+)",
+      "description": "¡Nunca es tarde para aprender! Instrucción personalizada para principiantes adultos y aquellos que regresan al esquí."
+    }
+  },
+  "schedule": {
+    "title": "Horarios de Clases",
+    "firstTimers": {
+      "title": "🎿 Principiantes (Edades 3 a 5)",
+      "vibe": "La Vibe:",
+      "vibeDesc": "Baja presión, máxima diversión.",
+      "tip": "Consejo Pro:",
+      "tipText": "Recomendamos encarecidamente la Sesión de Medio Día para este grupo de edad. Tres horas es usualmente el 'punto dulce' antes del ataque de la siesta.",
+      "morning": "Sesión Matutina",
+      "morningDesc": "Captura esa energía temprana mientras dure.",
+      "afternoon": "Sesión Vespertina",
+      "afternoonDesc": "Para las familias que disfrutan de una mañana lenta.",
+      "fullDay": "Día Completo",
+      "fullDayDesc": "Incluye un descanso para almuerzo y tiempo de 'calentamiento'."
+    },
+    "kidsBeginner": {
+      "title": "⛷️ Niños Principiantes (Edades 6 a 12)",
+      "vibe": "La Vibe:",
+      "vibeDesc": "Pizza, encurtidos y encontrar los senderos secretos.",
+      "halfDay": "Día de Medio Día (3 Horas)",
+      "halfDayDesc": "Una introducción de alta velocidad a frenar y girar.",
+      "fullDay": "Explorador de Día Completo (6 Horas)",
+      "fullDayDesc": "Mucho tiempo para descansos de refrigerio, dominando la alfombra mágica, y viendo más de la montaña."
+    },
+    "teens": {
+      "title": "🏔️ Adolescentes Principiantes (Edades 13 a 17)",
+      "vibe": "La Vibe:",
+      "vibeDesc": "Nada de 'cosas de niños'. Solo las habilidades que necesitas para parecer un profesional.",
+      "fullDay": "De Cero a Héroe Día Completo",
+      "fullDayDesc": "Un comienzo ligeramente más tarde para los que duermen hasta tarde. Vamos de '¿Cómo me pongo estas botas?' a 'Realmente estoy haciendo esto' en un día.",
+      "quickStart": "El Inicio Rápido (3 Horas)",
+      "quickStartDesc": "Un curso intensivo privado en supervivencia en montaña. Perfecto para aprender lo básico y luego practicar por tu cuenta más tarde."
+    },
+    "adults": {
+      "title": "🎿 Principiantes Adultos (18+)",
+      "vibe": "La Vibe:",
+      "vibeDesc": "Eficiencia y confianza. Salta las filas, aprende las reglas.",
+      "intensive": "El Intensivo",
+      "intensiveDesc": "Enfoque técnico de alta energía. Terminado antes del almuerzo.",
+      "deepDive": "La Inmersión Profunda",
+      "deepDiveDesc": "Sin prisa. Tomamos el tiempo para asegurar que estés cómodo."
+    },
+    "table": {
+      "option": "Opción",
+      "time": "Hora",
+      "happening": "¿Qué Está Pasando?",
+      "why": "Por Qué Te Gustará"
+    },
+    "whyPrivate": {
+      "title": "¿Por Qué Lecciones Privadas?",
+      "description": "Porque se trata de ti. Sin esperar en una fila de grupo y sin 'retrase a nadie'. Si eres un natural, avanzamos rápido. Si necesitas una hora extra para dominar el 'frenada', te tenemos cubierto."
+    }
+  },
+  "contact": {
+    "title": "Comienza Hoy",
+    "subtitle": "¿Listo para conquistar las pistas? ¡Contáctanos para reservar tu lección!",
+    "cta": "📱 Contáctanos por WhatsApp"
+  },
+  "footer": {
+    "copyright": "© 2026 Clases de Esquí Keystone. Todos los derechos reservados."
+  }
+}
